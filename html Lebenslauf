@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+   <title> LEBENSLAUF</title>
+   <meta name="author" content="Donata Santos Fischer">
+   <meta name="description" content="Beispiel-Lebenslauf">
+   <meta name="keywords" content="htm15, Technologie">
+
+   <link rel="stylesheet" href="curriculo.css">
+</head>
+
+<body>
+    <h1>Ana Paula Santos</h1>
+    <p class="center subtitle">Brasilianer, Ledig, 25 Jahre alt.</p>
+
+<ul class="menu">
+     <li><a href="#">Linkedin</a></li>
+     <li><a href="#">Github</a></li>
+     <li><a href="#">Youtube</a></li>
+</ul>
+
+    <h2>Zielsetzung</h2>
+    <p>Front-End Developer, Front-End Entwickler, Webdesigner.</p>
+
+    <h2>Berufliche Erfahrung</h2>
+<h3><a href= "http://google.com" target="_blank">FU (Fiktives Unternehmen)</a>  - 12/2014 bis 02/2015 - 2 Monate</h3>
+
+<h4>Programm-Analytiker - 2 Monate</h4>
+<p>Entwicklung von Webanwendungen mit HTML, CSS, AngularJS, Javascript, Ajax, Rest, JSON, PHP.</p>
+
+<h3><a href= "http://google.com" target="_blank">Fiktive Firma</a> - 1 Jahr</h3>
+<h4>Front-End-Entwickler - 1 Jahr</h4>
+<p>Ich habe als vollwertiger Front-End-Entwickler gearbeitet und aktiv an allen Zielen des Unternehmens mitgewirkt (Webanwendungen, mobile Anwendungen und Portale).</p>
+
+<p>Ich habe aktiv mit Technologien wie HTML5, CSS, Angular JS, Wordpress, PHP, JSON und Javascript gearbeitet.</p>
+
+<h3><a href= "http://google.com" target="_blank">Fiktive Firma</a> - 6 Monate</h3>
+<h4>Front-End Entwickler - 6 Monate</h4>
+<p>Arbeit mit Portalen, Landing Pages und E-Commerce, manuelle Programmierung von HTML, CSS, Javascript, direkte Zusammenarbeit mit dem Back-End-Team mit PHP.</p>
+
+<h2>Weiterbildung</h2>
+
+<h3>Hochschulabschluss in Informationstechnologie </h3>
+<p>01/2010 a 01/2012</p>
+<p>Fiktive Hochschule</p>
+
+<h3>Nachdiplomkurs für Computerprojekte in Front-End-Technologien</h3>
+<p>08/2014 a 15/2015</p>
+<p>Fiktive Hochschule</p>
+
+<h2>Kurse und Spezialisierung</h2>
+
+<ul>
+<li>Teilnahme an einer fiktiven Veranstaltung - Berlin (2014);</li>
+<li>Fiktive Zertifizierung - Fiktives Unternehmen (2015);</li>
+</ul>
+
+<h3>HTML5</h3>
+<p>serfrontend - 40h - 2022</p>
+
+<h3>Javascript</h3>
+<p>serfrontend - 40h - 2022</p>
+
+<h3>CSS3</h3>
+<p>serfrontend - 40h - 2022</p>
+
+<h3>Sprachen</h3>
+<p>Englisch: Fortgeschrittene</p>
+<p>Portugiesisch : Muttersprache</p>
+</body>
+
+</html>
